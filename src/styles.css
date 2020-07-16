@@ -1,0 +1,46 @@
+@import url("https://fonts.googleapis.com/css2?family=Pacifico&display=swap");
+
+.neon {
+  text-shadow: 0 0 5px #fff, 0 0 7px #fff, 0 0 15px #fff, 0 0 34px #0ff,
+    0 0 80px #0ff, 0 0 90px #0ff, 0 0 100px #0ff, 0 0 150px #0ff;
+}
+
+html,
+body {
+  height: 100%;
+  margin: 0;
+  overflow: hidden;
+}
+
+.container {
+  margin: 250px auto !important;
+}
+
+.innerContainer {
+  width: 100%;
+  text-align: center !important;
+}
+
+body {
+  background-color: #010a00;
+  background-image: url("https://www.transparenttextures.com/patterns/3px-tile.png");
+  font-size: 2rem;
+}
+
+h1 {
+  color: #fff;
+  font-family: "Pacifico", cursive !important;
+  font-weight: 300;
+  text-align: center !important;
+  text-transform: capitalize;
+}
+
+.btn {
+  border: 1px solid white;
+}
+
+p {
+  margin: 0 50px;
+  color: white;
+  font-family: sans-serif;
+}
